@@ -3,7 +3,7 @@
 A full-featured **Hotel Booking Management System** built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) that allows users to book hotel rooms, view recent searches, and manage their bookings. Hotel owners can register hotels, upload room details with images, and manage availability.
 
 ---
-
+👉 **Live Preview:** [https://hb-gs.vercel.app/](https://hb-gs.vercel.app/)
 ## 🚀 Features
 
 ### 👤 User Side
@@ -77,7 +77,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 CLERK_API_KEY=your_clerk_key   # Optional
 
-👉 Live Preview: https://hb-gs.vercel.app/
+
 
 
 
