@@ -77,5 +77,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 CLERK_API_KEY=your_clerk_key   # Optional
 
+👉 Live Preview: https://hb-gs.vercel.app/
+
 
 
